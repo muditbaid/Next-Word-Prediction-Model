@@ -1,4 +1,4 @@
-### Next Word Prediction Model with TensorFlow
+# Next Word Prediction Model with TensorFlow
 
 This repository implements a next-word prediction model using TensorFlow that generates the most likely following word in a sequence.
 
